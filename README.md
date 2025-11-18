@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi 🤔
 
-<!--
-**generic-name-2166/generic-name-2166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer. Jack of all trades, I've dabbled in many areas from crossplatform front-end to low level data engineering. 
 
-Here are some ideas to get you started:
+Interested in moving, looking for visa sponsorship opportunities. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact info ❤️‍🩹
+
+Contact me 
+- Email [kirbesson777@gmail.com](mailto:kirbesson777@gmail.com)
+- WhatsApp
+
+### Working experience 🤨
+
+Currently working as...
+
+- Front-end developer
+  - Working with Vue, TypeScript and PostCSS
+  - Collaborating with the team using GitLab, Figma, kanban-tracker service
